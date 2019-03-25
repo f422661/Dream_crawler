@@ -1,0 +1,8 @@
+stem
+pysocks
+jupyter
+requests
+selenium
+fake-useragent
+beautifulsoup4
+elasticsearch
